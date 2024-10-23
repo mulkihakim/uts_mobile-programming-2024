@@ -5,4 +5,6 @@
 ## No. Absen    : 22
 
 ### Hasil
+(gif dibawah ini)
+
 ![hasil](linkaja_ui/assets/images/test_linkajaclone_MulkiHakim-ezgif.gif)
